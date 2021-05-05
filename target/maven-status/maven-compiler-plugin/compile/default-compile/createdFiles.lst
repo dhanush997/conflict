@@ -1,0 +1,5 @@
+com\regnant\MyProductController.class
+com\regnant\ProductRepository.class
+com\regnant\ProductResponse.class
+com\regnant\Product.class
+com\regnant\SpringBootMongoDbApplication.class
